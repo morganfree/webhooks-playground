@@ -13,4 +13,4 @@ jobs:
       - checkout # check out the code in the project directory
       - run: echo "hello world" # run the `echo` command
       - run: sleep 100
-      - run: finished
+      - run: finished-2

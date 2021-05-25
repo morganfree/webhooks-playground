@@ -15,7 +15,7 @@
     "scripts": "file:../../scripts"
   },
   "devDependencies": {},
-  "keywords": [],
+  "keywords": ["test"],
   "author": "",
   "license": "ISC"
 }
